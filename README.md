@@ -102,3 +102,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve Ecoute.
+
+
+
+##  change for mac
+
+- change pkg PyAudioWPatch to pyaudio
+- change some code in DefaultSpeakerRecorder and init file
+- setting your device name
+- if you want use mac speaker as mic input for program, you need to download blackhole
+
